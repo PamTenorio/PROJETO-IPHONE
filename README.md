@@ -5,4 +5,4 @@
 <p> este projeto foi feito só a versão de computador, mais voui fazer um projeto mais responsivo, 
 para que possa ser vizualizado em outros dispositivos tambem</p>
  estou cursando o DEVCLUB, com Rodolfo Mori.
- 
+ <img src="https://github.com/PamTenorio/PROJETO-IPHONE/blob/master/img/Imagem12.png?raw=true">
